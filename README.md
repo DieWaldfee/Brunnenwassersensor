@@ -11,3 +11,5 @@ Hier der Link zum Sensor-Datasheet: https://www.waveshare.com/wiki/TOF_Laser_Ran
 Im Repository liegen die STL-Dateien, um die Komponenten mit einem 3D-Drucker auszudrucken, der C++-Code für den ESP32, das Eagle-file für das Platinendesign auf Lochrasterkarte (zum Nachlöten) und die Fusiom360-Dateien.
 
 viel Spaß beim Nachbauen :-)
+
+![grafik](https://github.com/user-attachments/assets/f121caf4-d01a-4349-abe1-66f7afae5f39)
