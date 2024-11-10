@@ -27,6 +27,9 @@ viel Spaß beim Nachbauen :-)
 Ausgabe im serial Monitor unter debug=1:
 ![grafik](https://github.com/user-attachments/assets/d68d20de-d053-4121-8ac8-8014c8adbd25)
 
+so sieht das bei mir im ioBroker (...oder wo auch immer ihr das weiterverwenden wollt :-)) aus:
+![grafik](https://github.com/user-attachments/assets/d219c2b9-c07d-410d-81d6-ae58194b5afb)
+
 Hier die Platine:
 ![20241110_140426](https://github.com/user-attachments/assets/c4de448a-bde3-4abd-b906-c5bc8dc51db8)
 ![20241110_140251](https://github.com/user-attachments/assets/bc15cd9c-1ddd-480a-a2f9-ecfcbcc00162)
