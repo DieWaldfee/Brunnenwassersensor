@@ -16,6 +16,7 @@ viel Spaß beim Nachbauen :-)
 ![grafik](https://github.com/user-attachments/assets/f121caf4-d01a-4349-abe1-66f7afae5f39)
 
 Ausgabe im serial Monitor unter debug=1:
-![grafik](https://github.com/user-attachments/assets/76842e4a-086e-4803-9e3d-627c2c147c6c)
+![grafik](https://github.com/user-attachments/assets/d68d20de-d053-4121-8ac8-8014c8adbd25)
+
 
 
