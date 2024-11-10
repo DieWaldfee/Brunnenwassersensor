@@ -14,3 +14,7 @@ Im Repository liegen die STL-Dateien, um die Komponenten mit einem 3D-Drucker au
 viel Spaß beim Nachbauen :-)
 
 ![grafik](https://github.com/user-attachments/assets/f121caf4-d01a-4349-abe1-66f7afae5f39)
+
+Ausgabe im serial Monitor unter debug=1:
+![grafik](https://github.com/user-attachments/assets/e6dcd7a1-4f2d-40a3-a82e-2e1a3e5e5dbe)
+
