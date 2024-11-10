@@ -27,6 +27,12 @@ viel Spaß beim Nachbauen :-)
 Ausgabe im serial Monitor unter debug=1:
 ![grafik](https://github.com/user-attachments/assets/d68d20de-d053-4121-8ac8-8014c8adbd25)
 
+Hier die Platine:
+![20241110_140426](https://github.com/user-attachments/assets/c4de448a-bde3-4abd-b906-c5bc8dc51db8)
+![20241110_140251](https://github.com/user-attachments/assets/bc15cd9c-1ddd-480a-a2f9-ecfcbcc00162)
+![20241110_140204](https://github.com/user-attachments/assets/12446c11-30e5-4fc4-9b2c-d91a9f86b2c2)
+
+
 Aufbau des Sonsorrohrs:
 ![20241110_125235](https://github.com/user-attachments/assets/3688fb63-cdaa-4906-afc4-edb28c99e2fc)
 ![20241110_125336](https://github.com/user-attachments/assets/b8728986-d2a6-4608-98a4-d24b29194bf9)
