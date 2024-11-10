@@ -17,7 +17,7 @@ Einstellung für euer eingesetzten DS18B20-Sensoren - die haben natürlich ander
 ![grafik](https://github.com/user-attachments/assets/56b18717-67ae-4c47-8625-beab1ef32bdd)
 Offset-Einstellung zwischen Oberkante Sensor und Oberkante Gelände (GOK):
 ![grafik](https://github.com/user-attachments/assets/dca3b6ed-e2bb-40b2-8c95-7d2f8bebc820)
-...und danach natürlich eure User/Passwörter in der secrets.h:
+...und danach natürlich eure User/Passwörter in der secrets.h:<p>
 ![grafik](https://github.com/user-attachments/assets/ab2d421e-74e0-4cce-a1cb-a920563d0784)
 
 viel Spaß beim Nachbauen :-)
