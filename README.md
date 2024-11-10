@@ -18,5 +18,9 @@ viel Spaß beim Nachbauen :-)
 Ausgabe im serial Monitor unter debug=1:
 ![grafik](https://github.com/user-attachments/assets/d68d20de-d053-4121-8ac8-8014c8adbd25)
 
-
-
+Aufbau des Sonsorrohrs:
+![20241110_125235](https://github.com/user-attachments/assets/3688fb63-cdaa-4906-afc4-edb28c99e2fc)
+![20241110_125336](https://github.com/user-attachments/assets/b8728986-d2a6-4608-98a4-d24b29194bf9)
+![20241110_133428](https://github.com/user-attachments/assets/8a31be5b-f2f9-43b2-a917-cb40a6633b5d)
+![20241110_130808](https://github.com/user-attachments/assets/ddf1ea04-8d0c-4330-ba61-a4a08efc7992)
+![20241110_133442](https://github.com/user-attachments/assets/a945720c-713f-4ac1-8442-f2923508358f)
