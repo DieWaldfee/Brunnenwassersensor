@@ -12,7 +12,7 @@
 #define LED_MSG 4                        // Pin für die Botschafts-LED (blinkt bei übertragener Botschft über MQTT)
 #define LED_OK 19                        // Pin für die OK-LED
 #define ONE_WIRE_BUS 25                  // Pin für die OneWire-Verbindung du den Temperatursensoren
-static byte debug = 1;
+static byte debug = 0;
 static String lastError = "";
 
 //Verbindung zum TOF-Sensor via i2c (Standard-Adresse 0x52)
@@ -73,8 +73,8 @@ static SemaphoreHandle_t mutexTempSensor;
 static SemaphoreHandle_t mutexTOFSensor;
 
 //TaskRefrechTime
-#define MQTTStateRefresh 20000         // Alle 20.000 Ticks = 20sec
-#define DistanceRefresh 2000          // Alle 20.000 Ticks = 20sec
+#define MQTTStateRefresh 60000         // Alle 60.000 Ticks = 60sec
+#define DistanceRefresh 30000          // Alle 30.000 Ticks = 30sec
 
 //TaskHandler zur Verwendung mit ESP watchdog
 static TaskHandle_t htempSensor;
