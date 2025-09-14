@@ -4,7 +4,7 @@
 #define SECRETS_H
 
 // Definition der Zugangsdaten WiFi
-#define HOSTNAME "ESP32_Heizstabsteuerung"
+#define HOSTNAME "ESP32_Brunnenwassersensor"
 const char* ssid = "YourSSID";
 const char* password = "YourPassword";
 
