@@ -31,6 +31,9 @@ PubSubClient.h:________PubSubClient by Nick O'Leary v2.8 (über Arduino IDE) [al
 Wire.h:________________by Jim Studt, Tom Pollard, Robiun James... v2.3.8 (über Arduino IDE)<br>
 esp_task_wdt.h:________Espressif IDE<br>
 
+### verwendete IDE
+Im Verzeichnis `ESP23_Dev_Kit_V4` liegen die Arduino-files. Im Verzeichnis `vscode` liegt der gleiche Inhalt für VSCode. Zukünftig wird im VSCode weiter entwickelt. Wenn die Parallelität zu aufwändig wird nehme ich die Arduino IDE aus dem Repository. Solange das *.ino-file im Repository liegt wird es auch aktuell gehalten.
+
 ### Board ESP32
 esp32 by Espressif Systems v1.0.6 (über Arduino IDE)<br>
 Getestet habe ich auch v2.0.5<br>
