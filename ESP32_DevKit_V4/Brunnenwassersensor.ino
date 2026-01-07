@@ -885,12 +885,16 @@ void setup() {
   if (DS18B20_Count < 2) {
     Serial.println("... Anzahl DB18B20 < 2 => zu wenig! ... System angehalten!");
     digitalWrite(LED_OK, LOW);
+    uint8_t loopReset = 0;
     while (true) {
-      //blinke bis zur Unendlichkeit...
+      //blinke 3x... dann reboot
       digitalWrite(LED_ERROR, HIGH);
       delay(250);
       digitalWrite(LED_ERROR, LOW);
       delay(250);
+      if (++loopReset >= 3) {
+        safeReset();
+      }
     }
   }
   //Mutex-Initialisierung
